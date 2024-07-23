@@ -1,0 +1,5 @@
+com\example\cryptofolio\CryptoAssetRepository.class
+com\example\cryptofolio\CryptoAssetResource.class
+com\example\cryptofolio\CryptofolioApplication.class
+com\example\cryptofolio\BinanceTicker.class
+com\example\cryptofolio\CryptoAsset.class
